@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustinjuarezn" alt="agustinjuarezn" /> </p>
 
-- 🔭 I’m currently working on [Context](https://context.page/)
+- 💼 I’m currently working for [Alabama Solutions](http://alabamasolutions.com/)
+
+- 🔭 Also I’m currently working on [Context](https://context.page/)
 
 - 👨‍💻 All of my projects are available at [https://www.perfilup.com/profile/WiD1ueRtrXO0Sml7ociVWpK6MyV2](https://www.perfilup.com/profile/WiD1ueRtrXO0Sml7ociVWpK6MyV2)
 
