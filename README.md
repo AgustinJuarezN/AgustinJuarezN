@@ -7,7 +7,7 @@
 
 - 🔭 Also I’m currently working on [Context](https://context.page/)
 
-- 👨‍💻 All of my projects are available at [https://www.perfilup.com/profile/WiD1ueRtrXO0Sml7ociVWpK6MyV2](https://www.perfilup.com/profile/WiD1ueRtrXO0Sml7ociVWpK6MyV2)
+- 👨‍💻 All of my projects are available at [http://www.perfilup.com/profile/WiD1ueRtrXO0Sml7ociVWpK6MyV2](http://www.perfilup.com/profile/WiD1ueRtrXO0Sml7ociVWpK6MyV2)
 
 - 💬 Ask me about **React, Angular, Vue, Node**
 
