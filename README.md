@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustinjuarezn" alt="agustinjuarezn" /> </p>
 
-- 💼 I’m currently working for [Servicios Ya - Service City](https://www.servicios-ya.com/) | [SmartSports](https://www.linkedin.com/company/smarts-sports)
+- 💼 I’m currently working for [Servicios Ya - Service City](https://www.servicios-ya.com/) | [Beloved Robot](https://www.belovedrobot.com/) |[SmartSports](https://www.linkedin.com/company/smarts-sports)
 
 - 💬 Ask me about **React, Angular, Vue, Node**
 
